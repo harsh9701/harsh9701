@@ -2,7 +2,7 @@
 
 ### 🌐 Full Stack Developer | Passionate Coder | Tech Enthusiast
 
-I'm a dedicated and detail-oriented Full Stack Developer with a keen interest in building user-friendly, responsive, and efficient applications. Whether it's a sleek landing page or a robust backend system, I love solving real-world problems with code.
+Full Stack Developer with a keen interest in building user-friendly, responsive, and efficient applications. Whether it's a sleek landing page or a robust backend system, I love solving real-world problems with code.
 
 ---
 
