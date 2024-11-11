@@ -19,11 +19,9 @@ Full Stack Developer with a keen interest in building user-friendly, responsive,
 
 Here's a selection of projects that highlight my skills and interests:
 
+- **[Kharidlow](https://www.kharidlow.com):** B2B E-commerce Platform, developed using EJS, Node.js, Express.js, MongoDB.
 - **[TourTravelSystem](https://github.com/harsh9701/TourTravelSystem):** A booking platform for hotels, flights, and trains, developed using JSP, Servlet, and MySQL.
-- **[KharidLow](https://github.com/harsh9701/KharidLow):** An ecommerce B2B site built with MongoDB, Node.js, Express.js, HTML, CSS, jQuery, and EJS.
 - **[SpotifyClone](https://github.com/harsh9701/SpotifyClone):** A UI clone of Spotify built with HTML & CSS.
-- **[AmazonClone](https://github.com/harsh9701/AmazonClone):** A landing page of Amazon built with HTML & CSS.
-- **[flipkartClone](https://github.com/harsh9701/flipkartClone):** A UI replica of Flipkart's landing page.
 
 ---
 
@@ -31,7 +29,6 @@ Here's a selection of projects that highlight my skills and interests:
 
 - Interned at IIEST Federation, managing and optimizing their CRM system and database.
 - Developed a feature for managers to oversee sales across teams, integrated WhatsApp API for customer support, and streamlined SQL queries.
-- Regularly contribute to open-source projects and enjoy collaborating on new ideas.
 
 ---
 
