@@ -19,11 +19,11 @@ Full Stack Developer with a keen interest in building user-friendly, responsive,
 
 Here's a selection of projects that highlight my skills and interests:
 
+- **[TourTravelSystem](https://github.com/harsh9701/TourTravelSystem):** A booking platform for hotels, flights, and trains, developed using JSP, Servlet, and MySQL.
+- **[KharidLow](https://github.com/harsh9701/KharidLow):** An ecommerce B2B site built with MongoDB, Node.js, Express.js, HTML, CSS, jQuery, and EJS.
 - **[SpotifyClone](https://github.com/harsh9701/SpotifyClone):** A UI clone of Spotify built with HTML & CSS.
 - **[AmazonClone](https://github.com/harsh9701/AmazonClone):** A landing page of Amazon built with HTML & CSS.
 - **[flipkartClone](https://github.com/harsh9701/flipkartClone):** A UI replica of Flipkart's landing page.
-- **[KharidLow](https://github.com/harsh9701/KharidLow):** An ecommerce B2B site built with MongoDB, Node.js, Express.js, HTML, CSS, jQuery, and EJS.
-- **[TourTravelSystem](https://github.com/harsh9701/TourTravelSystem):** A booking platform for hotels, flights, and trains, developed using JSP, Servlet, and MySQL.
 
 ---
 
@@ -39,11 +39,3 @@ Here's a selection of projects that highlight my skills and interests:
 
 - **LinkedIn:** [linkedin.com/in/harsh9701](https://www.linkedin.com/in/harsh9701)
 - **GitHub:** [github.com/harsh9701](https://github.com/harsh9701)
-
----
-
-With a strong foundation in web development and a continuous drive for learning, I'm excited to take on new challenges and contribute to innovative projects. Let's connect and build something amazing together!
-
----
-
-Feel free to personalize this content further or add any other sections like “My Blog,” “Certificates,” or “Favorite Tools.” Let me know if you'd like more assistance!
