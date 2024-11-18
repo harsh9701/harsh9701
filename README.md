@@ -21,7 +21,6 @@ Here's a selection of projects that highlight my skills and interests:
 
 - **[Kharidlow](https://www.kharidlow.com):** B2B E-commerce Platform, developed using EJS, Node.js, Express.js, MongoDB.
 - **[TourTravelSystem](https://github.com/harsh9701/TourTravelSystem):** A booking platform for hotels, flights, and trains, developed using JSP, Servlet, and MySQL.
-- **[SpotifyClone](https://github.com/harsh9701/SpotifyClone):** A UI clone of Spotify built with HTML & CSS.
 
 ---
 
