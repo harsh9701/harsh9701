@@ -24,7 +24,7 @@ Here's a selection of projects that highlight my skills and interests:
 
 ---
 
-### 🏆 Achievements & Experiences
+### 🏆 Experiences
 
 - Interned at IIEST Federation, managing and optimizing their CRM system and database.
 - Developed a feature for managers to oversee sales across teams, integrated WhatsApp API for customer support, and streamlined SQL queries.
