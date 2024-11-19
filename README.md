@@ -15,7 +15,7 @@ Full Stack Developer with a keen interest in building user-friendly, responsive,
 
 ---
 
-### 🛠️ My Projects
+### 🛠️ Projects
 
 Here's a selection of projects that highlight my skills and interests:
 
