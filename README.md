@@ -8,7 +8,7 @@ Full Stack Developer with a keen interest in building user-friendly, responsive,
 
 ### 🔧 Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, jQuery, EJS
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap, EJS
 - **Backend:** Node.js, Express.js, JSP, Servlet
 - **Databases:** MongoDB, MySQL
 - **Tools & Platforms:** Git, GitHub, NetBeans, phpMyAdmin
